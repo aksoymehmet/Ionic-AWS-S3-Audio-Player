@@ -1,0 +1,8 @@
+{
+  "name": "AudioPlayer",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "d94a3cff"
+}
